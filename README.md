@@ -11,7 +11,7 @@ Big Bang Theory is in its last season and tickets are limited and are in very hi
 
 ## Dates
 
-- Choose your date ((at least 30days in the future)[https://www.tvtickets.com/fmi/core/recordlist.php])
+- Choose your date ([at least 30days in the future](https://www.tvtickets.com/fmi/core/recordlist.php))
 - Set your calendar to be ready when tickets go online. They will be available online 30 days prior to the show schedule updated by 8:30am from M-F Los Angeles time
 
 ## Prepare
@@ -19,8 +19,8 @@ Big Bang Theory is in its last season and tickets are limited and are in very hi
 The Python automation script will use Selenium to automate the input fields and access your browser through the Selenium driver. 
 
 - Download the tvtickets-automation.py script file
-- (Download Python bindings for Selenium)[https://selenium-python.readthedocs.io/installation.html#downloading-python-bindings-for-selenium]
-- (Download the Selenium driver)[https://selenium-python.readthedocs.io/installation.html#drivers]
+- [Download Python bindings for Selenium](https://selenium-python.readthedocs.io/installation.html#downloading-python-bindings-for-selenium)
+- [Download the Selenium driver](https://selenium-python.readthedocs.io/installation.html#drivers)
 - Fill in your names
 - Set the path to your Selenium driver
 - Run the script, if successful it will open the tvtickets website and refresh every 3 seconds
