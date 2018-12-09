@@ -1,6 +1,6 @@
 # Get your Big Bang Theory Ticket
 
-Big Bang Theory is in it's last season and tickets are limited and are in very high demand. The best chance of being able to attend a taping of The Big Bang Theory is to automate their website, get your ticket and follow instructions below.
+Big Bang Theory is in its last season and tickets are limited and are in very high demand. The best chance of being able to attend a taping of The Big Bang Theory is to automate their website, get your ticket and follow the instructions below.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The Python automation script will use Selenium to automate the input fields and 
 - (Download the Selenium driver)[https://selenium-python.readthedocs.io/installation.html#drivers]
 - Fill in your names
 - Set the path to your Selenium driver
-- Run the script, if successfull it will open the tvtickets website and refresh every 3 seconds
+- Run the script, if successful it will open the tvtickets website and refresh every 3 seconds
 - To test your script with shows available online, just change the "Bang" search term to e.g. "Dr." and run your script again
 
 ## Ticket
