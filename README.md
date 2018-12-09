@@ -11,7 +11,7 @@ Big Bang Theory is in its last season and tickets are limited and are in very hi
 
 ## Dates
 
-- Choose your date ([at least 30days in the future](https://www.tvtickets.com/fmi/core/recordlist.php))
+- Choose your date ([at least 30 days in the future](https://www.tvtickets.com/fmi/core/recordlist.php))
 - Set your calendar to be ready when tickets go online. They will be available online 30 days prior to the show schedule updated by 8:30am from M-F Los Angeles time
 
 ## Prepare
