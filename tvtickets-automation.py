@@ -31,7 +31,7 @@ class BigBangSearch(unittest.TestCase):
             all_options = showSelect.options
             bigBangFound = False
             for option in all_options:
-                if "Dr." in option.text and "STANDBY" not in option.text:
+                if "Bang" in option.text and "STANDBY" not in option.text:
                     bigBangFound = True
                     bigBangWebelementValue = option.get_attribute("value")
                     break
