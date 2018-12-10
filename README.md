@@ -18,7 +18,7 @@ Big Bang Theory is in its last season and tickets are limited and are in very hi
 
 The Python automation script will use Selenium to automate the input fields and access your browser through the Selenium driver. 
 
-- Download the tvtickets-automation.py script file
+- Download the [tvtickets-automation.py script file](https://github.com/herget/TVTickets-Automation/blob/master/tvtickets-automation.py)
 - [Download Python bindings for Selenium](https://selenium-python.readthedocs.io/installation.html#downloading-python-bindings-for-selenium)
 - [Download the Selenium driver](https://selenium-python.readthedocs.io/installation.html#drivers)
 - Fill in your names
