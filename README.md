@@ -36,4 +36,4 @@ To get your ticket make sure the automation script is running on your machine 30
 The ticket alone won't guarantee the entrance to the show. Ticket holders will be admitted on a first-come basis as space allows and admission is not guaranteed.
 - Be there super early, at least 4 or more hours before the show time
 - Leave smartphone and all devices in the car
-- Bring your ID and a bring a print out of the ticket
+- Bring your ID and bring a print out of the ticket
